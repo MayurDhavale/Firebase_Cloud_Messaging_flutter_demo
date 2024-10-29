@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628194975832",
+    "project_id": "fir-messaging-fcm-bf0db",
+    "storage_bucket": "fir-messaging-fcm-bf0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628194975832:android:1730de7f504051ebffaa2d",
+        "android_client_info": {
+          "package_name": "com.example.fcm_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbhLyIRp2Hg5dU-xRkUDx-cy0AtFFIhkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
